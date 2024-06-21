@@ -5,17 +5,36 @@ Your job is to design their relational database systems for improved operational
 Currently, their data resides in several systems: accounting software, supplier databases, point of sales (POS) systems, and even spreadsheets. You will review the data in all of these systems and design a central database to house all of the data. You will then create the database objects and load them with source data. Finally, you will create subsets of data your business partners require, export them, and load them into staging databases using several RDBMS.
 
 
-![Task10](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/48f0c989-a225-4c0e-8173-78db385c8f95)
-![Task9](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/285e72cb-e476-41a6-9f09-70ce30bae7cf)
-![Task8](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/5710b556-3f1a-4ec6-b846-5c2659eef0db)
-![Task7](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/bf6335b9-4a57-406e-991d-95c5081bcae5)
-![Task6B](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/c9f4e478-c7f9-4d00-8b88-587d166b9557)
-![Task6A](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/30f9daee-8563-4167-afad-68cbb33fcf24)
-![Task5B](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/43fc3450-d7d8-4647-982f-f3ed738103b7)
-![Task5A](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/e3280470-670b-4ae7-9d03-96280d9d1496)
-![Task4B](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/95cb28da-8989-448f-ab4c-5073fb807722)
-![Task4A](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/05dbfef3-0fcc-40ee-b804-bbe0cf508562)
-![Task3B](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/9cbc430a-36a2-45e5-9dbb-619766ed10f7)
-![Task3A](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/19036338-4490-4a28-b883-312df7e74bf0)
-![Task2](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/849ac417-c579-45b2-bd1a-19bee4bc0a91)
-![Task1](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/f4a77520-2390-4976-acae-a8723163dbab)
+## Task1:
+![Task1](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/3c99324f-c8a5-474e-8d40-cece3be914c0)
+
+## Task2:
+![Task2](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/d082057d-29f4-41df-8bae-94caf699f999)
+
+## Task3:
+![Task3A](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/f7440b26-4211-4d72-af35-e1622d935c84)
+![Task3B](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/ecdc5686-79ff-4157-81bf-746f2249b223)
+
+## Task4:
+![Task4A](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/77f794d9-f24b-4929-a130-f3530b0ced0f)
+![Task4B](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/0cf4486e-e535-4176-b046-ddc68a023164)
+
+## Task 5:
+![Task5A](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/6984fc65-4112-4409-a8d5-ab5ec213664e)
+![Task5B](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/b9b45b95-e638-4926-aaac-9cdd9b2d6d5d)
+
+## Task 6:
+![Task6A](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/8554cdf3-be0a-4f8d-bc0f-3d3131c2f0b3)
+![Task6B](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/d0b727c9-8aa9-43c7-abe6-8b13d4ef5a04)
+
+## Task 7:
+![Task7](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/956c1079-f92a-4b9e-9fe0-bdfeafe08ac4)
+
+## Task 8:
+![Task8](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/ab0fbbcc-41b1-44bb-8d2e-21c504035500)
+
+## Task9: 
+![Task9](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/b2a8f3da-49cb-4287-949e-0150f056ac91)
+
+## Task 10:
+![Task10](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/e0abea40-52ad-48d6-b8b0-6f53f2cbca1c)
