@@ -4,6 +4,8 @@ Your job is to design their relational database systems for improved operational
 
 Currently, their data resides in several systems: accounting software, supplier databases, point of sales (POS) systems, and even spreadsheets. You will review the data in all of these systems and design a central database to house all of the data. You will then create the database objects and load them with source data. Finally, you will create subsets of data your business partners require, export them, and load them into staging databases using several RDBMS.
 
+![image](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/21335c06-d1d1-47db-8970-03865d374de7)
+
 
 ## Task1:
 ![Task1](https://github.com/Mahmoud-khaled-m/Database-System-Design-for-a-coffee-shop-chain-/assets/85359683/3c99324f-c8a5-474e-8d40-cece3be914c0)
